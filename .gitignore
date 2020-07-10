@@ -1,6 +1,7 @@
 #忽略所有版本jar文件提交,因为jar中包含了源码解压即可看到源码
-*.jar
+#*.jar
 #忽略所有版本jar文件的md5文件的提交
-*.jar.md5
+#*.jar.md5
 #忽略所有版本jar文件的sha1的提交
-*.jar.sha1
+#*.jar.sha1
+.gitignore
